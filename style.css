@@ -1,0 +1,15 @@
+.text-area{
+    width:90%;
+    height: 12vh;
+    display: block;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+#output{
+    width:80%;
+    border: 1px solid black;
+    height:10vh;
+    margin:1rem;
+    padding: 1rem;
+}
